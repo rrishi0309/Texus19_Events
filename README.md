@@ -3,6 +3,8 @@
 
 **Project Link:** - https://rishiramesh.space/client/texus19/events
 
+![image](https://github.com/rrishi0309/Texus19_Events/assets/27177572/de8f6f22-3a5e-4070-b6c6-7a89b9c2d527)
+
 ## Table of Contents
 - [About](#about)
 - [Events](#events)
